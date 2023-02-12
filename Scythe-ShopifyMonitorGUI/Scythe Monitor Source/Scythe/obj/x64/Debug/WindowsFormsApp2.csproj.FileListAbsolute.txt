@@ -1,0 +1,88 @@
+C:\Users\lucas\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\WindowsFormsApp2.exe.config
+C:\Users\lucas\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\WindowsFormsApp2.exe
+C:\Users\lucas\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\WindowsFormsApp2.pdb
+C:\Users\lucas\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Microsoft.Dynamic.dll
+C:\Users\lucas\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Microsoft.Scripting.dll
+C:\Users\lucas\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\lucas\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Python.Runtime.dll
+C:\Users\lucas\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Buffers.dll
+C:\Users\lucas\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Memory.dll
+C:\Users\lucas\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\lucas\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lucas\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Microsoft.Dynamic.xml
+C:\Users\lucas\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Microsoft.Scripting.xml
+C:\Users\lucas\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\lucas\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\Python.Runtime.xml
+C:\Users\lucas\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Buffers.xml
+C:\Users\lucas\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Memory.xml
+C:\Users\lucas\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\lucas\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lucas\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\lucas\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\lucas\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\lucas\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\lucas\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.exe
+C:\Users\lucas\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.pdb
+C:\Users\lucas\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\IronPython.dll
+C:\Users\lucas\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\IronPython.Modules.dll
+C:\Users\lucas\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\IronPython.SQLite.dll
+C:\Users\lucas\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\IronPython.Wpf.dll
+C:\Users\lucas\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\IronPython.xml
+C:\Users\lucas\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\IronPython.Modules.xml
+C:\Users\lucas\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\IronPython.SQLite.xml
+C:\Users\lucas\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\x64\Debug\IronPython.Wpf.xml
+C:\Users\lucas\source\repos\WindowsFormsApp2 - Copy\WindowsFormsApp2\bin\x64\Debug\WindowsFormsApp2.exe.config
+C:\Users\lucas\source\repos\WindowsFormsApp2 - Copy\WindowsFormsApp2\bin\x64\Debug\WindowsFormsApp2.exe
+C:\Users\lucas\source\repos\WindowsFormsApp2 - Copy\WindowsFormsApp2\bin\x64\Debug\WindowsFormsApp2.pdb
+C:\Users\lucas\source\repos\WindowsFormsApp2 - Copy\WindowsFormsApp2\bin\x64\Debug\Microsoft.Dynamic.dll
+C:\Users\lucas\source\repos\WindowsFormsApp2 - Copy\WindowsFormsApp2\bin\x64\Debug\Microsoft.Scripting.dll
+C:\Users\lucas\source\repos\WindowsFormsApp2 - Copy\WindowsFormsApp2\bin\x64\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\lucas\source\repos\WindowsFormsApp2 - Copy\WindowsFormsApp2\bin\x64\Debug\System.Buffers.dll
+C:\Users\lucas\source\repos\WindowsFormsApp2 - Copy\WindowsFormsApp2\bin\x64\Debug\System.Memory.dll
+C:\Users\lucas\source\repos\WindowsFormsApp2 - Copy\WindowsFormsApp2\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\lucas\source\repos\WindowsFormsApp2 - Copy\WindowsFormsApp2\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lucas\source\repos\WindowsFormsApp2 - Copy\WindowsFormsApp2\bin\x64\Debug\Microsoft.Dynamic.xml
+C:\Users\lucas\source\repos\WindowsFormsApp2 - Copy\WindowsFormsApp2\bin\x64\Debug\Microsoft.Scripting.xml
+C:\Users\lucas\source\repos\WindowsFormsApp2 - Copy\WindowsFormsApp2\bin\x64\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\lucas\source\repos\WindowsFormsApp2 - Copy\WindowsFormsApp2\bin\x64\Debug\System.Buffers.xml
+C:\Users\lucas\source\repos\WindowsFormsApp2 - Copy\WindowsFormsApp2\bin\x64\Debug\System.Memory.xml
+C:\Users\lucas\source\repos\WindowsFormsApp2 - Copy\WindowsFormsApp2\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\lucas\source\repos\WindowsFormsApp2 - Copy\WindowsFormsApp2\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lucas\source\repos\WindowsFormsApp2 - Copy\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\WindowsFormsApp2 - Copy\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\source\repos\WindowsFormsApp2 - Copy\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\lucas\source\repos\WindowsFormsApp2 - Copy\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\lucas\source\repos\WindowsFormsApp2 - Copy\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\lucas\source\repos\WindowsFormsApp2 - Copy\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\WindowsFormsApp2 - Copy\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\lucas\source\repos\WindowsFormsApp2 - Copy\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.exe
+C:\Users\lucas\source\repos\WindowsFormsApp2 - Copy\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.pdb
+\\DESKTOP-B6ROP64\Ever\xbox\WindowsFormsApp2 - Copy\WindowsFormsApp2\bin\x64\Debug\WindowsFormsApp2.exe.config
+\\DESKTOP-B6ROP64\Ever\xbox\WindowsFormsApp2 - Copy\WindowsFormsApp2\bin\x64\Debug\WindowsFormsApp2.exe
+\\DESKTOP-B6ROP64\Ever\xbox\WindowsFormsApp2 - Copy\WindowsFormsApp2\bin\x64\Debug\WindowsFormsApp2.pdb
+\\DESKTOP-B6ROP64\Ever\xbox\WindowsFormsApp2 - Copy\WindowsFormsApp2\bin\x64\Debug\Microsoft.Dynamic.dll
+\\DESKTOP-B6ROP64\Ever\xbox\WindowsFormsApp2 - Copy\WindowsFormsApp2\bin\x64\Debug\Microsoft.Scripting.dll
+\\DESKTOP-B6ROP64\Ever\xbox\WindowsFormsApp2 - Copy\WindowsFormsApp2\bin\x64\Debug\Microsoft.Scripting.Metadata.dll
+\\DESKTOP-B6ROP64\Ever\xbox\WindowsFormsApp2 - Copy\WindowsFormsApp2\bin\x64\Debug\System.Buffers.dll
+\\DESKTOP-B6ROP64\Ever\xbox\WindowsFormsApp2 - Copy\WindowsFormsApp2\bin\x64\Debug\System.Memory.dll
+\\DESKTOP-B6ROP64\Ever\xbox\WindowsFormsApp2 - Copy\WindowsFormsApp2\bin\x64\Debug\System.Numerics.Vectors.dll
+\\DESKTOP-B6ROP64\Ever\xbox\WindowsFormsApp2 - Copy\WindowsFormsApp2\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+\\DESKTOP-B6ROP64\Ever\xbox\WindowsFormsApp2 - Copy\WindowsFormsApp2\bin\x64\Debug\Microsoft.Dynamic.xml
+\\DESKTOP-B6ROP64\Ever\xbox\WindowsFormsApp2 - Copy\WindowsFormsApp2\bin\x64\Debug\Microsoft.Scripting.xml
+\\DESKTOP-B6ROP64\Ever\xbox\WindowsFormsApp2 - Copy\WindowsFormsApp2\bin\x64\Debug\Microsoft.Scripting.Metadata.xml
+\\DESKTOP-B6ROP64\Ever\xbox\WindowsFormsApp2 - Copy\WindowsFormsApp2\bin\x64\Debug\System.Buffers.xml
+\\DESKTOP-B6ROP64\Ever\xbox\WindowsFormsApp2 - Copy\WindowsFormsApp2\bin\x64\Debug\System.Memory.xml
+\\DESKTOP-B6ROP64\Ever\xbox\WindowsFormsApp2 - Copy\WindowsFormsApp2\bin\x64\Debug\System.Numerics.Vectors.xml
+\\DESKTOP-B6ROP64\Ever\xbox\WindowsFormsApp2 - Copy\WindowsFormsApp2\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+\\DESKTOP-B6ROP64\Ever\xbox\WindowsFormsApp2 - Copy\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+\\DESKTOP-B6ROP64\Ever\xbox\WindowsFormsApp2 - Copy\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+\\DESKTOP-B6ROP64\Ever\xbox\WindowsFormsApp2 - Copy\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.Form1.resources
+\\DESKTOP-B6ROP64\Ever\xbox\WindowsFormsApp2 - Copy\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.Properties.Resources.resources
+\\DESKTOP-B6ROP64\Ever\xbox\WindowsFormsApp2 - Copy\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+\\DESKTOP-B6ROP64\Ever\xbox\WindowsFormsApp2 - Copy\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+\\DESKTOP-B6ROP64\Ever\xbox\WindowsFormsApp2 - Copy\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.csproj.CopyComplete
+\\DESKTOP-B6ROP64\Ever\xbox\WindowsFormsApp2 - Copy\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.exe
+\\DESKTOP-B6ROP64\Ever\xbox\WindowsFormsApp2 - Copy\WindowsFormsApp2\obj\x64\Debug\WindowsFormsApp2.pdb
