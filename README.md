@@ -10,3 +10,5 @@
 
 # About Scythe
 The focus of this application is to scan and detect changes in products on several different shopify websites. Once a change is detected, it will send a discord notification to a select channel and edit the message when the stock changes. Below is a screenshot on how the monitor looks like in action.
+
+<img width="700" src="https://github.com/1vke/Scythe-ShopifyMonitorGUI/blob/master/static/ex1.png">
