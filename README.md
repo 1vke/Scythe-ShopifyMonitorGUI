@@ -8,6 +8,9 @@
   </p>
 </p>
 
+# NOTICE!
+This repo is here for archival purposes, and should only be used for reference. Code is a bit old. This was my first try at a multi-language project
+
 # About Scythe
 The focus of this application is to scan and detect changes in products on several different shopify websites. Once a change is detected, it will send a discord notification to a select channel and edit the message when the stock changes. Below is a screenshot on how the monitor looks like in action.
 
