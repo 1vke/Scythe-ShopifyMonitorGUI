@@ -9,7 +9,7 @@
 </p>
 
 # NOTICE!
-This repo is here for archival purposes, and should only be used for reference. Code is a bit old. This was my first try at a multi-language project
+This repo is here for archival purposes, and should only be used for reference. Code is a bit old. This was my first try at a multi-language project. <br />
 If you are needing a monitor that works like this but with more features, I am developing a montior service that should be out in the coming months.
 
 # About Scythe
