@@ -10,8 +10,7 @@
 
 # NOTICE!
 This repo is here for archival purposes, and should only be used for reference. Code is a bit old. This was my first try at a multi-language project. <br />
-If you are needing a monitor that works like this but with more features, I am developing a montior service that should be out in the coming months.
-
+I have developed a better solution for monitoring and delivering product changes to discord. It beats this monitor by a mile. Message me on discord for more info and pricing details.
 # About Scythe
 The focus of this application is to scan and detect changes in products on several different shopify websites. Once a change is detected, it will send a discord notification to a select channel and edit the message when the stock changes. Below is a screenshot on how the monitor looks like in action.
 
